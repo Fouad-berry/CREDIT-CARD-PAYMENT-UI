@@ -17,5 +17,5 @@ Ce projet est un formulaire de paiement en ligne permettant de saisir les inform
 - JavaScript (ou React.js si applicable)
 
 ## REBUE DU PROJET
-Une revue du projet est en cours , afin de fixer les bugs
+Une revue du projet est en cours , afin de fixer les bugs .
 
