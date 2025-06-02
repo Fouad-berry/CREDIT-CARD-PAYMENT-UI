@@ -8,13 +8,12 @@ Ce projet est un formulaire de paiement en ligne permettant de saisir les inform
 - Saisie de la date d'expiration
 - Saisie du code CVV
 - Validation des champs de formulaire
-- Interface simple et responsive
+- Interface simple , responsive et user friendly
 
 ## Technologies utilisées
 
 - HTML5
 - CSS3
 - JavaScript
-
 
 
