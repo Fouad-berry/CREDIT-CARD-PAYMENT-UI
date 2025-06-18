@@ -13,7 +13,7 @@ Ce projet est un formulaire de paiement en ligne permettant de saisir les inform
 ## Technologies utilisées
 
 - HTML5
-- CSS3
+- CSS3 & CSS
 - JavaScript
 
 
